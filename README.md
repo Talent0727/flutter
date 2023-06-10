@@ -6,7 +6,6 @@
     </picture>
   </h1>
 </a>
-
 [![Build Status - Cirrus][]][Build status]
 [![Discord badge][]][Discord instructions]
 [![Twitter handle][]][Twitter badge]
